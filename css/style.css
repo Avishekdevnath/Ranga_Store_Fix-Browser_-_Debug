@@ -13,7 +13,6 @@ body {
   border-radius: 50px;
   padding: 5px;
   outline: none;
-  background-color: lemonchiffon;
 }
 
 .search-field:hover {
@@ -41,7 +40,6 @@ body {
 
 /* Style for Row section */
 .row {
-  background-color: lemonchiffon;
   padding: 30px 10px;
 }
 
